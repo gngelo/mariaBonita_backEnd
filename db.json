@@ -1,0 +1,37 @@
+{
+  "clientes": [
+    {
+      "nome": "Maria Bonita de Alcantara",
+      "endereco": "Rua Matozinhos 150",
+      "telefone": "3577-8789",
+      "dataNascimento": "03/10/2000",
+      "bairro": "California",
+      "cep": "32.400-350",
+      "pontoReferencia": "Ao lado da rodoviaria",
+      "email": "mariabonita@hotmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Maria Bonita de Alcantara",
+      "endereco": "Rua Matozinhos 150",
+      "telefone": "3656985",
+      "dataNascimento": "2020-11-11",
+      "bairro": "cachoeirinha",
+      "cep": "30150280",
+      "pontoReferencia": "Ao lado da rodoviaria",
+      "email": "mariabonita@hotmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Maria Bonita de Alcantara",
+      "endereco": "ruq 19 87",
+      "telefone": "3577-8789",
+      "dataNascimento": "2020-11-27",
+      "bairro": "California",
+      "cep": "32000000",
+      "pontoReferencia": "em frente ao visinho",
+      "email": "mariabonita@hotmail.com",
+      "id": 3
+    }
+  ]
+}
